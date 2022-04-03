@@ -1,0 +1,25 @@
+{
+  "name": "json-web-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wonsss/json-web-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wonsss/json-web-server/issues"
+  },
+  "homepage": "https://github.com/wonsss/json-web-server#readme",
+  "devDependencies": {
+    "cors": "^2.8.5",
+    "json-server": "^0.17.0",
+    "json-server-auth": "^2.1.0"
+  }
+}
