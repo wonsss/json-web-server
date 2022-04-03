@@ -17,4 +17,4 @@ app.use(
 // You must apply the auth middleware before the router
 app.use(auth);
 app.use(router);
-app.listen(process.env.PORT);
+app.listen("3000");
